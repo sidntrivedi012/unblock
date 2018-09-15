@@ -31,6 +31,6 @@ Content to be unblocked from Cyberoam.
 - **Blocked Under**: Games
 - **About**: Glitch is a sandbox platform for experimental web developers to build, test and prototype stuff. Apart from that, it also doubles up as a hosting provider for these fun experiments, now hosting some of the most unconventional web projects from talented developers around the world.
 
-### 7.SMTP(Simple Mail Transfer Protocol)
+### 7.SMTP (Simple Mail Transfer Protocol)
 - **About**:-Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic mail (email) transmission. Our e-mail clients (such as Thunderbird Mail,Outlook or Mac OS X Mail) use SMTP to send a message to the mail server, and the mail server uses SMTP to relay that message to the correct receiving mail server. Basically, SMTP is a set of commands that authenticate and direct the transfer of electronic mail.
 - **Ports** : `Port 25` for non-encrypted communication and `Port 465` for SSL encrypted communication.
